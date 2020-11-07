@@ -9,13 +9,12 @@ It allows you to select specific or all devices and ARP spoofs them off your loc
 
 ---
     
--------------
 
 # Installation
 
 ## Debian Installation
 
-You can download KickThemOut by cloning the [Git Repo] and simply installing its requirements:
+You can download KickThemOut by cloning the Git Repo and simply installing its requirements:
 
 ```
 ~ ❯❯❯ sudo apt-get update && sudo apt-get install nmap
